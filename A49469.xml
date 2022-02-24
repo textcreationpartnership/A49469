@@ -1,0 +1,571 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Regi serenissimo &amp; potentissimo Carlo secundo regi magnæ Britanniæ, Galliæ &amp; Hiberniæ, &amp;c. : dundecimo imperii anno, mense Maio, Regnum ingresso / acclamat Nicolaus Lundius ...</title>
+            <author>Lund, Niels.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49469</idno>
+            <idno type="STC">Wing L3486A</idno>
+            <idno type="STC">ESTC R31001</idno>
+            <idno type="EEBO-CITATION">11760894</idno>
+            <idno type="OCLC">ocm 11760894</idno>
+            <idno type="VID">48685</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49469)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48685)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1486:55)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Regi serenissimo &amp; potentissimo Carlo secundo regi magnæ Britanniæ, Galliæ &amp; Hiberniæ, &amp;c. : dundecimo imperii anno, mense Maio, Regnum ingresso / acclamat Nicolaus Lundius ...</title>
+                  <author>Lund, Niels.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48685:1"/>
+            <!-- PDF PAGE 25 -->
+            <pb facs="tcp:48685:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <p>
+               <hi>REGI</hi> SERENISSIMO &amp; POTENTISSIMO <hi>CAROLO Secundo, REGI MAGNAE BRITANNIAE, GAL<g ref="char:EOLhyphen"/>LIAE &amp; HIBERNIAE, &amp;c.</hi>
+            </p>
+            <p>DUODEC<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>MO IMPERII ANNO, MENSE <hi>MAIO,</hi> REGNUM INGRESSO, Acclamat <hi>NICOLAUS LUNDIUS, Hafnia Danus.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:48685:2"/>
+            <!-- PDF PAGE 26 -->
+            <pb n="1" facs="tcp:48685:2"/>
+            <!-- PDF PAGE 26 -->
+            <head>
+               <hi>REGI</hi> SERENISSIMO &amp; POTENTISSIMO <hi>CAROLO Secundo, REGI MAGNAE BRITANNIAE, GALLIAE &amp; HIBERNIAE, &amp;c.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">S</seg>Ic rabies exploſa ruit, gravioré<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> lapſu</l>
+               <l>Eſummo turbata cadit. Deſtruxit Olympus</l>
+               <l>Illicitos Furiarum auſus; ſervile recondunt</l>
+               <l>Virus, &amp; ad putrem retrahuntur Erynnides Orcum.</l>
+               <l>Mitior arridens Titan, incendia quamvis</l>
+               <l>Tiſiphone crepet, &amp; flammis fomenta minetur,</l>
+               <l>Evomitos ignes, eructatas<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> favillas</l>
+               <l>Diſſipat, in vanos abiit fuligo vapores.</l>
+               <l>Hactenus infixos oppreſſa Britannia dentes</l>
+               <l>Invidiae, rabidó<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> nimis ſua viſcera morſu</l>
+               <l>Arrodi, truſam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> foras ſtillare medullam</l>
+               <l>Senſit, &amp; in tetras doluit dejecta lacunas.</l>
+               <l>Inverſum regimen, ſumma imis mista jacebant</l>
+               <l>In foedum diffuſa Chaos, triſti<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tumultu</l>
+               <l>Tot ſimul in tanto commiſſa piacula regno.</l>
+               <l>
+                  <pb n="2" facs="tcp:48685:3"/>
+                  <!-- PDF PAGE 27 -->
+Omnia monſtroſam in miras conflata figuras</l>
+               <l>Induerant formam: Variis polluta rapinis</l>
+               <l>Templa &amp; ſacra Dei, vaſtata palatia regum,</l>
+               <l>Et quid praeterea? Tantas dum in pectore curas</l>
+               <l>Volvit Britonidum ſine voce &amp; murmure mater,</l>
+               <l>Obſtupuêre omnes &amp; adhuc in funere vivam.</l>
+               <l>Illa ſuis aſſueta malis immota ſedebat,</l>
+               <l>Non frendens miſerè quamvis laniata, nec ullis</l>
+               <l>Ora rigans lacrymis: Parvus dolor elicit illas,</l>
+               <l>Humectat<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> genas; at ſi vitalia frangit</l>
+               <l>Membra, ipſum carpit caput, &amp; praecordia tentat,</l>
+               <l>Incutit horrorem, fontem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> obſtipat aquarum:</l>
+               <l>Sic ea, in adverſum luctantibus undique fatis,</l>
+               <l>Non lacrymis foedata genas, non rauca querelis</l>
+               <l>In mediis ſiluit morti vicina ruinis,</l>
+               <l>Preſſa premens gemitus, &amp; vix ſuſpiria ducens.</l>
+               <l>Senſêre &amp; quotquot genuino ſanguine creti</l>
+               <l>Cum genitrice omnes ſuſpiravere Britanni.</l>
+               <l>Viderat haec è nube trucis ludibria ſortis</l>
+               <l>Aonidum Praeſes, medióque è vertice Pindi</l>
+               <l>Advolat, &amp; facili fundit ſolatia lingua.</l>
+               <l>Anglia, ait, mundi decus, &amp; mea gloria quondam,</l>
+               <l>Plurima quae pridem noſtris ornata coronis</l>
+               <l>Pectora protuleras, tot in ipſo Helicone fovebas</l>
+               <l>
+                  <pb n="3" facs="tcp:48685:3"/>
+                  <!-- PDF PAGE 27 -->
+Bellerephontei potanda liquore caballi,</l>
+               <l>Jam lacerata jaces, &amp; acerbis ſaucia telis</l>
+               <l>Vix regis afflictos diris cruciatibus artus.</l>
+               <l>Digna tuo luges luctu, ſed crede minantis</l>
+               <l>Infauſtos Erebi jamjam labaſcere foetus.</l>
+               <l>Siſte metum, nullum retinent injuſta vigorem</l>
+               <l>Sceptra, ſed ut fragiles tandem rumpuntur habenae.</l>
+               <l>Talia repperies in priſco codice Vatum</l>
+               <l>Difflari ad validos vel ſe diſſolvere ventos.</l>
+               <l>Poena ſuos ſequitur. Sumſit diadema <hi>Lycaon</hi>
+               </l>
+               <l>Tranſiliit leges Patrum praeſcripta, cruore</l>
+               <l>Purpureo ſparſus, quaecun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> aſtuta libido</l>
+               <l>Suaſerat, inſtituit, nunquam ſine coede quietus:</l>
+               <l>Neglexit ſylvas hominum venator, &amp; iſtis</l>
+               <l>Deliciis, (crudele nefas!) placavit Avernum.</l>
+               <l>Tot ſcelera &amp; tanta ſtipatos ſtrage furores</l>
+               <l>Non legum titulis tamen, aut mortalibus armis</l>
+               <l>Frenavit ſcelerum vindex Actraea, nec ullae</l>
+               <l>Terrenae fregêre manus, majora patrarat</l>
+               <l>Quam poenis luſtranda hominum: Gravioribus actis</l>
+               <l>Fata etiam gravius deſtinavere tribunal</l>
+               <l>Sub Jove. Quis dicet? Fuit hic impune tyrannus!</l>
+               <l>Attamen haud omnes eadem fortuna retunait:</l>
+               <l>Sunt alii, qui jura tenent aliena, ſua<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </l>
+               <l>
+                  <pb n="4" facs="tcp:48685:4"/>
+                  <!-- PDF PAGE 28 -->
+Praecipites levitate ruunt, &amp; maxima fractae</l>
+               <l>Mentis, &amp; indubii produnt monumenta timoris.</l>
+               <l>Sic cecidit noſti <hi>Phaeton,</hi> cum ſcandere currus</l>
+               <l>Tentavit, quibus impar erat, conamine vano</l>
+               <l>Flexit, &amp; in miros tandem devolvit hiatus.</l>
+               <l>Patris equi natum ſemel axe in devia ducto</l>
+               <l>In vetitas traxêre vias, &amp; in horrida ſigna</l>
+               <l>Deluſum rapuere &amp; deſtituere cadentem.</l>
+               <l>Anglia quid metuis? cur ad ſolatia noſtra</l>
+               <l>Muta ſiles? An monſtra times? Fuit illa timoris</l>
+               <l>Cauſa olim, haud iterum tantis agitabere poenis.</l>
+               <l>Monſtra quidem ſudore Hecates, Stygiá<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> palude</l>
+               <l>Ebria produxit Pluto, ſed deni<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ferro</l>
+               <l>Heroum, &amp; gravibus merito confoſſa ſagittis.</l>
+               <l>Quid? ſi <hi>Erimantheus</hi> ſylvas vaſtavit, &amp; ipſas</l>
+               <l>Preſsit <hi>aper</hi> terras, &amp; ſaevo dente colonos</l>
+               <l>Diripuit, ſenſit tandem ſua fata, virum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </l>
+               <l>Qui ſaeviturum mediis confudit in auſis.</l>
+               <l>Quid tibi <hi>Lernaea</hi> dicam vehementius <hi>Hydra?</hi>
+               </l>
+               <l>Haec etenim peſtes Mundi, maſſas<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> veneni</l>
+               <l>Evomuit, tetró<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> homines infecit &amp; auras</l>
+               <l>Afflatu, tamen haec non impunita receſsit:</l>
+               <l>Adfuit Alcides, qui uno compeſcuit ictu</l>
+               <l>Indomitos alias rictus, monſtroſa revulſit</l>
+               <l>
+                  <pb n="5" facs="tcp:48685:4"/>
+                  <!-- PDF PAGE 28 -->
+A trunco capita, &amp; moritura robur in Hydra</l>
+               <l>Suſtulit, &amp; populo duxit plaudente triumphos.</l>
+               <l>Tu quó<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, quae nimio quaſſata es turbine venti</l>
+               <l>Tandem ſume animos, apparet blandior aether;</l>
+               <l>Nec porro pejora time, mutata ruinis</l>
+               <l>Fata tuis poſuêre modum, miraberis ipſa,</l>
+               <l>Cum in priſcos revoluta g<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>os venerabere <hi>Regem.</hi>
+               </l>
+               <l>Imminet illa dies, quam tantis anxia votis</l>
+               <l>Optaſti, ſerves te jam melioribus aſtris.</l>
+               <l>Sic ait, &amp; magnam tam laeta ad carmina Matrem</l>
+               <l>Surgentem linquis, repetitque per aera Pindum.</l>
+               <l>Illa quid? accepto quod ei dictarat Apollo</l>
+               <l>Omine faticanae Phoebi diffidere linguae</l>
+               <l>Noluit, &amp; priſcum coepit ſperare nitorem.</l>
+               <l>Nec mora, ſperanti gratans arriſit Olympus.</l>
+               <l>Venerat, in ſummam cum protraherentur abyſſum</l>
+               <l>Omnia, vix<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ardens caper<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t medicamina vulnus,</l>
+               <l>
+                  <hi>Heros Devonius,</hi> ſciſca ut radice tumultus</l>
+               <l>Rumperet, aſſenſit coelum, quo vindice rupit.</l>
+               <l>Non nive candentes ſylvae, non grandine nubes</l>
+               <l>Turgida, nec Boreae flatus, glacieſve retardat.</l>
+               <l>Haec licet impediat, tamen haud conſtringit euntem.</l>
+               <l>Tantus amor Patria! ſua providus agmina ducit</l>
+               <l>Per medias hyemes, intenſáque frigora Brumae.</l>
+               <l>
+                  <pb n="6" facs="tcp:48685:5"/>
+                  <!-- PDF PAGE 29 -->
+Stipatus binis Aſtraed &amp; Pallade divis.</l>
+               <l>Illa manu laeva leges &amp; jura Britannis</l>
+               <l>Restauranda tenet, pullas fert dexter a chartas,</l>
+               <l>Hic populi gemitus, hos<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> extorquentia facta</l>
+               <l>Enormes caedes, &amp; furta cruenta notavit.</l>
+               <l>Arma alacris Bellona quatit, vibrat<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſariſſam</l>
+               <l>Non tamen ut noceat, nullum bibitura cruorem;</l>
+               <l>Sed magnum tutura Ducem, qui ſidere blando</l>
+               <l>Legitimum tacito profitetur pectore <hi>Regem.</hi>
+               </l>
+               <l>Quid non conato, quid non ſucceſsit agenti</l>
+               <l>
+                  <hi>MONCKIADAE?</hi> Cantet fidos ſibi Roma Camillos,</l>
+               <l>Servavit, fateor, preſſas Thraſybulus Athenas:</l>
+               <l>Sed quid huic aequum facto? ſine fulmine Martis</l>
+               <l>Tempore tam exiguo, per tanta pericula, tutum</l>
+               <l>Ire, tribus regnis optatam reddere pacem,</l>
+               <l>Reddere ſuppreſſas leges, &amp; reddere <hi>REGEM.</hi>
+               </l>
+               <l>Anglia miratur, reliquus ſtupet orbis, &amp; ipſa</l>
+               <l>Poſteritas vix credet avis, cum ponder a rerum</l>
+               <l>Prudenter decreta, dein velociter acta,</l>
+               <l>Et ſummos aequa trutinabit lance labores.</l>
+               <l>Quae meritas quaeſo memorabunt carmina laudes</l>
+               <l>Herois, propriae qui cum diſcrimine vitae</l>
+               <l>Restituit vitam Patriae, quo intrante paterno</l>
+               <l>Reddita jura ſolo, &amp; legum veſtigia preſſa?</l>
+               <l>
+                  <pb n="7" facs="tcp:48685:5"/>
+                  <!-- PDF PAGE 29 -->
+Miſit quae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſuos regio per vota probatos</l>
+               <l>Libera, qui in tantae ſervirent cardine cauſae,</l>
+               <l>Et priſco inſtruerent Anglas moderamine terras.</l>
+               <l>Vix impleta <hi>Domus,</hi> vix ad ſubſellia ventum,</l>
+               <l>En! Legatus adeſt, qui miſſa ex Principis aula,</l>
+               <l>Demandata ſibi cunctis mandata revelat.</l>
+               <l>Accipiunt, &amp; quis<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tuam <hi>Rex Carole</hi> mentem</l>
+               <l>Expreſſam calamo devotis auribus haurit,</l>
+               <l>Et penitus cordi teneros inſcribit amores.</l>
+               <l>Sic penetras mentes. Oſtendit littera <hi>Regem</hi>
+               </l>
+               <l>Eminet in quovis Majeſtas ſeria puncto.</l>
+               <l>O probitas! O miſta animo clementia juſto!</l>
+               <l>Quem non attonitum linquit prudentia motu</l>
+               <l>Fermentata pio, qua Te ducente manebas</l>
+               <l>Inſtabilis varios Fortunae immotus ad ictus.</l>
+               <l>
+                  <hi>Carole,</hi> qua tendis comitante ad culmina rerum?</l>
+               <l>Haec Tibi, quicquid agis, dux eſt, hac judice, qua<g ref="char:cmbAbbrStroke">̄</g>vis</l>
+               <l>Vulnus alas animum mordens, tamen abnuis eſſe</l>
+               <l>Ipſe Tui vindex, aliis haec pondera defers,</l>
+               <l>Et decernendas poſt ſtricta examina poenas.</l>
+               <l>Quantum agis hoc calamo? Variis emerſa procellis</l>
+               <l>Jam Tua nulla videt ſibi structa obſtacula virtus,</l>
+               <l>Ad nutum Tibi cuncta fluunt. Quis Sceptra <hi>STUARTI</hi>
+               </l>
+               <l>Rejicit? Et quaeſo Tibi quae molimina <hi>REGI</hi>
+               </l>
+               <l>
+                  <pb n="8" facs="tcp:48685:6"/>
+                  <!-- PDF PAGE 30 -->
+Obſtreperent, qui jam livoris ſpicula tranſis?</l>
+               <l>Quod nocuit ruit omne nefas; meliora paravit</l>
+               <l>Anglia ſubridente polo: ſuffragia justo</l>
+               <l>Haeredem dicunt ſolio. Tua jur a refulgent</l>
+               <l>Sculpta typis: tacitis ſic hactenus agnite votîs</l>
+               <l>Aggrederis tua jura thronum. Te pectore clauſum</l>
+               <l>Hactenus, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> animis populi, gemitu<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> probatum</l>
+               <l>Jam <hi>Dominum</hi> praeco, jam publica pompa fatetur.</l>
+               <l>Britonidum voces, &amp; promptae gaudia gentis,</l>
+               <l>Percuſſas gladiis haſtas, testes<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> favoris</l>
+               <l>Sulphureos bombos, pileos<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> per aethera miſſos,</l>
+               <l>Et crebro Tameſis reſonantia littora plauſu</l>
+               <l>Vidimus? Aeternum poſcunt haec Jubila vatem,</l>
+               <l>Qui decertantes <hi>populique &amp; Regis</hi> amores</l>
+               <l>Fonte Aganippeae feliciter irriget undae.</l>
+               <l>Creſcit amor, major a inſtant, non ſufficit aures</l>
+               <l>Arrexiſſe, petunt alienae littora terrae,</l>
+               <l>Ne ſero in regnis Regem venerentur avitis,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>t videant avidi. Quem tot ſuſpiria molli</l>
+               <l>Ante vocaverunt gemitu, jam voce requirunt</l>
+               <l>Anglorum Proceres, &amp; utro<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ex or dine mittunt</l>
+               <l>Qui <hi>Carolum</hi> venerentur, &amp; in ſua regna reducant.</l>
+               <l>Hos patriae teſtes animo vultûque ſereno</l>
+               <l>Accipis, &amp; variis admittis honoribus auctos,</l>
+               <l>
+                  <pb n="9" facs="tcp:48685:6"/>
+                  <!-- PDF PAGE 30 -->
+Atque miniſteriis, (honor eſt ſervire Monarchae)</l>
+               <l>Et deſiderium jamjam expleture Britannum</l>
+               <l>Ingrederis claſſem. Totus circumtremit aer</l>
+               <l>Percuſſus clangore tubae, clamore virorum,</l>
+               <l>Excipit unda ſonos, imitantur fulmina naves,</l>
+               <l>Et conſpirantes mittunt ad littora bombos.</l>
+               <l>Exliunt Nymphae, ſentit tua pondera Tethys</l>
+               <l>Atque humeris ſupportat onus, placaverat aequor</l>
+               <l>Neptunus, Dominum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſuis agnoſcit in undis.</l>
+               <l>Non furor Aeolidum, non aequoris ir a timetur,</l>
+               <l>Rex vehitur, promti veniunt ad claſsica venti,</l>
+               <l>Et felix Anglum tandem ferit anchora fundum</l>
+               <l>Ridet ad optatum rediviva Britannia ſolem.</l>
+               <l>Quae in Patriae jacuit modo ſemiſepulta ruinis</l>
+               <l>Jam recipit vires, terrae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad littora tendit</l>
+               <l>Pompoſos ſub Rege ſuo ductura triumphos</l>
+               <l>Nobilitas. Exit ſtipatus flore Britanno</l>
+               <l>
+                  <hi>Scipio Devonius.</hi> Tanto comitatus Achate</l>
+               <l>Securus patriam calcas <hi>Rex Carole</hi> glebam.</l>
+               <l>Qua pergis manifeſta vides veſtigia laetae</l>
+               <l>Gentis, &amp; innati fulgentia ſigna favoris.</l>
+               <l>Intima praeteritos evellunt gaudia luctus.</l>
+               <l>Suppeditat ligna, ac hilares videt Anglia flammas,</l>
+               <l>Jam flammis erepta Orci, jam candida fulget</l>
+               <l>
+                  <pb n="10" facs="tcp:48685:7" rendition="simple:additions"/>
+                  <!-- PDF PAGE 31 -->
+Et priſcam recipit placido ſub Numine lucem.</l>
+               <l>Nec ſecus ac Phoebe oppoſita, vel nube ſinistra</l>
+               <l>Cum cohibet radios, nullas<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> illuminat auras</l>
+               <l>Rex Hyperionius, triſti confundimur umbra;</l>
+               <l>At Luna Eoo cedente, aut nube repulſa</l>
+               <l>Reſpirans totum Phoebi jubar erigit or bem.</l>
+               <l>Sic dum legitimus regnorum extruditur Haeres,</l>
+               <l>Nube quaſi obducta, mediis immerſa tenebris</l>
+               <l>Fatorum gravidas ſenſere dolentius ir as.</l>
+               <l>
+                  <hi>Rege</hi> ſuis redeunte redit ſua vita Britannis.</l>
+               <l>Jam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>auguſte</hi> tuum flammatis <hi>Carole</hi> Titan</l>
+               <l>Natalem ſignabat equis, &amp; judice Pindo</l>
+               <l>Natalem Patriae, quo Sol &amp; ſidera regni</l>
+               <l>Spargebant mixtum populo acclamante nitorem.</l>
+               <l>Inflat fama tubas, aliis ut cantet in oris,</l>
+               <l>Dum Tu ſceptra capis. Reſonet mea Dania plauſu</l>
+               <l>
+                  <hi>Agnatus, Frederice, Tuus,</hi> ſua regna capeſsit.</l>
+               <l>Felicem ſpondent felicia ſidera curſum.</l>
+               <l>Aggreſſus ſolium Mundo plaudente paternum</l>
+               <l>
+                  <hi>Romule Britonidum,</hi> teneas quod fata dicarunt</l>
+               <l>Imperium ſeros Princeps longaevus in annos!</l>
+               <l>Fortunae (hoc Virtus clamat) ſublimior axe</l>
+               <l>Emineas! Et ſic tandem ſub Numine blando</l>
+               <l>Aeternum capies coelo plaudente coronam.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48685:7"/>
+            <!-- PDF PAGE 31 -->
+         </div>
+      </body>
+   </text>
+</TEI>
